@@ -8,6 +8,7 @@ import java.util.Observer;
 
 import javax.swing.JPanel;
 
+//xxx
 public class ShowPanel extends JPanel implements Observer {
     int x    = 0;
     int y    = 0;
